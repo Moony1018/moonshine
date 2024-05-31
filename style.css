@@ -21,20 +21,25 @@ body {
   border-radius: 5px;
 }
 #page-1 {
-  background: url("Colosseum-Rome.webp") no-repeat center center/cover;
+  background: url("/rawImage.jpg") no-repeat center center/cover;
 }
 #page-2 {
   background: url("/Parthenon-Acropolis-Athens.webp") no-repeat center
     center/cover;
 }
 #page-3 {
-  background: url("/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg") no-repeat
-    center center/cover;
+  background: url("/Reindeer-Summer-Mongolian-Reindeer-Herders-tour\ \(1\).jpg")
+    no-repeat center center/cover;
 }
 #page-4 {
   background: url("/HgDjfQuhdcoBKL7BDLSyW5.jpg") no-repeat center center/cover;
 }
 #page-5 {
-  background: url("/image_processing20240117-2-x5guao.jpg") no-repeat center
-    center/cover;
+  background: url("/Huvsgul_e2f67abc73.jpg") no-repeat center center/cover;
+}
+h1 {
+  font-size: 40px;
+}
+p {
+  font-size: 20px;
 }
